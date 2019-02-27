@@ -6,4 +6,9 @@
         <members>DemoTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>AnswersHome</members>
+        <members>BandwidthExceeded</members>
+        <name>ApexPage</name>
+    </types>
 </Package>
