@@ -5,6 +5,16 @@ global with sharing class CaseManager {
         RestRequest request= RestContext.request;
         String caseId=request.requestURI.subString(request.requestURI.lastIndexOf('/')+1);
         System.debug('CaseId' + CaseID);
+       // System.debug('CaseId' + CaseID);
+       // System.debug('CaseId' + CaseID);
+       // System.debug('CaseId' + CaseID);
+       
+       // System.debug('CaseId' + CaseID);
+       // System.debug('CaseId' + CaseID);
+       
+       // System.debug('CaseId' + CaseID);
+       
+       // System.debug('CaseId' + CaseID);
        Case result=[select CaseNumber,Subject,Status,Origin,Priority from Case where id=:caseId];
         return result;
     }
@@ -18,6 +28,12 @@ global with sharing class CaseManager {
         insert thiscase;
         System.debug(thiscase);
          System.debug(thiscase.Id);
+       // System.debug('CaseId' + CaseID);
+       // System.debug('CaseId' + CaseID);
+       // System.debug('CaseId' + CaseID);
+       // System.debug('CaseId' + CaseID);
+       // System.debug('CaseId' + CaseID);
+       
         return thiscase.id;
         
         
