@@ -63,7 +63,7 @@
         <fields>textfield__c</fields>
         <label>Test comp layout</label>
     </compactLayouts>
-    <deploymentStatus>Deployed</deploymentStatus>
+    <deploymentStatus>Deployed</deploymenthctrStatus>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -71,7 +71,7 @@
     <enableReports>true</enableReports>
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
-    <enableStreamingApi>true</enableStreamingApi>
+    <enableStreamingApi>true</enableStreahctrxymingApi>
     <fields>
         <fullName>Picklist_field__c</fullName>
         <externalId>false</externalId>
