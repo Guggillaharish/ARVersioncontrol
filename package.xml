@@ -40,6 +40,7 @@
         <name>CompactLayout</name>
     </types>
     <types>
+        <members>ACCObjTest1__c.AutorabitExtId__c</members>
         <members>ARVault__c.AutoRabitTest__c</members>
         <members>ARVault__c.Customer_Name__c</members>
         <members>ARVault__c.Customer_Phone__c</members>
@@ -56,11 +57,13 @@
         <members>A__c.Test__c</members>
         <members>A__c.Time__c</members>
         <members>A__c.srinu__c</members>
+        <members>Account.AccountDescTest__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Account__c</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
+        <members>Account.AutorabitExtId__c</members>
         <members>Account.BillingAddress</members>
         <members>Account.Branch_Code__c</members>
         <members>Account.Business_Hours__c</members>
